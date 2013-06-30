@@ -1,0 +1,1 @@
+The HTTP Archive provides information about website performance such as # of HTTP requests, use of gzip, and amount of JavaScript. This information is recorded over time revealing trends in how the Internet is performing. Built using Open Source software, the code and data are available to everyone allowing researchers large and small to work from a common base.
